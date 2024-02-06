@@ -1,7 +1,7 @@
 {
   "image": "mmh352/m269:23j", 
   "hostRequirements": {
-    ⚠//"cpus": 4
+    //"cpus": 4
   },
 
   // Useful docs:
