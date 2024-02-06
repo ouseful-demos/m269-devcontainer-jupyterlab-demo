@@ -20,6 +20,10 @@
     "codespaces": {
       "openFiles": []
     },
+    "features": {
+      "ghcr.io/devcontainers/features/python:1": {
+            "installJupyterlab": true,
+    },
     "vscode": {
       "settings": {
         // On Mac Arm64, there's a long delay on the container build
