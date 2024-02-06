@@ -1,5 +1,6 @@
-{
-  "image": "mmh352/m269:23j", 
+{ 
+  "build": { "dockerfile": "Dockerfile" },
+  //"image": "mmh352/m269:23j", 
   "hostRequirements": {
     //"cpus": 4
   },
