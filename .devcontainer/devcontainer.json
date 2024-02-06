@@ -14,7 +14,7 @@
   // For development, it may be useful to be root when connecting via terminal
   //"remoteUser": "root",
   "updateContentCommand": "",
-  "postCreateCommand": "python3 -m pip install -r requirements.txt",
+  "postCreateCommand": "",
   "postStartCommand": "ou-container-content startup && ou-container-content shutdown",
   "forwardPorts": [],
   "customizations": {
